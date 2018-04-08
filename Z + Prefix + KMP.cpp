@@ -7,6 +7,9 @@
 //
 
 // from Mike Mirzayanov's lectures
+// O(N) calculation of Z-function
+// O(N) calculation of Prefix function
+// O(N + M) KMP
 
 #include <iostream>
 #include <cmath>

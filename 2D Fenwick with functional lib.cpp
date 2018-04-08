@@ -6,6 +6,8 @@
 //  Copyright © 2017 Mahmud. All rights reserved.
 //
 
+/// log^2(N) per update
+
 #include <iostream>
 #include <functional>
 
