@@ -1,0 +1,7 @@
+const int mods[] = {715225741, 1000000007};
+const int muls[] = {43, 73};
+const int bases[] = {555558019, 777781447};
+
+// to debug
+const int mods[] = {1000000000, 1000000000};
+const int muls[] = {10, 10};
