@@ -159,8 +159,6 @@ int main(int argc, const char * argv[]) {
     string a, b;
     cin >> a >> b;
     cout << multiply(a, b) << endl;
-    while (1) {
-        
-    }
+    
     return 0;
 }
