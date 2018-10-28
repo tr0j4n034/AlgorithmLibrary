@@ -28,11 +28,11 @@ The list of implemented algorithms:
     - It's pointer implementation, using the same approach in [1], static array implementation can be produced.
     - Update/Ask queries in O(log(RANGE))
 12. Johnson's all pairs shortest path problem
-    - O(V*E*log(V)) overall complexity
+    - O(V * E * log(V)) overall complexity
     - Bellman-Ford algorithm is used to detect negative cycle(if any).
 13. Karatsuba multiplication in O(N^1.58)
     - multiplication of large integers (big integer in CP)
-    - Although FFT is O(N*log(N)), Karatsuba is handy when you do not have prewritten FFT code.
+    - Although FFT is O(N * log(N)), Karatsuba is handy when you do not have prewritten FFT code.
 14. Kruskal Minimal Spanning Tree Algorithm in O(E * log(V))
     - Union/Find data structure
 15. Atkin's prime sieve in O(N)
