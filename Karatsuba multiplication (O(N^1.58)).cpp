@@ -10,7 +10,7 @@
  Karatsuba multiplication in O(N^(log2(3))) ~ N^1.58
  Please, refer to https://en.wikipedia.org/wiki/Karatsuba_algorithm
   to see the inner mechanism in the algorithm.
- Some for loops and operations can be replaced with builtin function for speedup.
+ Some for loops and operations can be replaced with builtin functions for speedup.
  */
 
 #include <iostream>
