@@ -60,4 +60,5 @@ The list of implemented algorithms:
 26. Multiplication bases and modulos for hash tables
 27. A method to hack unordered_set solutions during competitions
     - The solution belongs to a coder who hacked my solution during one of Codeforces contests)
-    
+28. Quicksort hack by Halyavin
+    - Some people still use qsort() function in C. The code produces adversary test cases.
