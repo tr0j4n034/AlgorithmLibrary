@@ -62,3 +62,4 @@ The list of implemented algorithms:
     - The solution belongs to a coder who hacked my solution during one of Codeforces contests)
 28. Quicksort hack by Halyavin
     - Some people still use qsort() function in C. The code produces adversary test cases.
+29. Quadtree implementation for 2D aggregate queries
