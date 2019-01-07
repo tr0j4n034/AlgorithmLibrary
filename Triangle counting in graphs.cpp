@@ -35,7 +35,6 @@ vector<vector<int>> graph;
 bitset<MAX_SIZE> adj[MAX_SIZE];
 
 int main(int argc, const char * argv[]) {
-    cout << "hi" << endl;
     scanf("%d%d", &N, &M);
     for (int i = 0; i < M; i ++) {
         int u, v;
@@ -66,7 +65,7 @@ int main(int argc, const char * argv[]) {
     for (int i: heavyNodes) {
         isHeavy[i] = 1;
     }
-    vector<int> orders(N);
+    vector<int> orders(N + 1);
     iota(orders.begin(), orders.end(), 1);
     sort(orders.begin(), orders.end(), [&](int u, int v) {
         if (degrees[u] != degrees[v]) {
