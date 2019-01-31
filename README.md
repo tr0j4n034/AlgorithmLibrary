@@ -69,3 +69,4 @@ The list of implemented algorithms:
 31. Triangle counting in general graphs O(M^1.5)
     - M is the number of edges
 32. Min-Stack: finding minimum elements in stack in O(1)
+33. Huffman encoding via priority queues
