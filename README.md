@@ -63,3 +63,9 @@ The list of implemented algorithms:
 28. Quicksort hack by Halyavin
     - Some people still use qsort() function in C. The code produces adversary test cases.
 29. Quadtree implementation for 2D aggregate queries
+30. LCA with binary lifting
+    - Preprocessing in O(N * log(N))
+    - LCA queries in O(log(N))
+31. Triangle counting in general graphs O(M^1.5)
+    - M is the number of edges
+32. Min-Stack: finding minimum elements in stack in O(1)
